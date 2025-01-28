@@ -13,6 +13,7 @@
     <p>Create branch - name "branch-one".</p>
     <p>Note_2 in "branch-one".</p>
     <p>Note_3 in "branch-one". After the merger.</p>
+    <p>Create 2 branch - name "branch-two".</p>
 	
     <h2>Hello World!</h2>
 
