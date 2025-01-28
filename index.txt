@@ -10,6 +10,7 @@
 </head>
 <body>
     <h1>Hello GitHub!</h1>
+    <p>Create branch - name "branch-one".</p>
 	
     <h2>Hello World!</h2>
 
